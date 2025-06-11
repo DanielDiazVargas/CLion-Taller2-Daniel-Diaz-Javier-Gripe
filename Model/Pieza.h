@@ -5,7 +5,7 @@
  * @class Pieza
  * @brief Representa una pieza de un barco.
  *
- * Esta clase permite crear, acceder y modificar una pieza, y también duplicarla mediante un método clone.
+ * Esta clase permite crear, acceder y modificar una pieza, y también duplicarla mediante un metodo clone.
  */
 class Pieza {
 private:
