@@ -1,0 +1,3 @@
+Juan,10,5
+Pedro,2,6
+Diego,4,7

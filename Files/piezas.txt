@@ -1,0 +1,5 @@
+Propulsor,Propulsor Mark I,1,1
+Metralla,ML 10MM,1,10
+Misil,MBI Mark I,2,1
+Propulsor,Propulsor Mark 5,5,5
+Metralla,ML 5MM,1,5
